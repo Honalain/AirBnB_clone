@@ -1,1 +1,9 @@
+This airBnB clone project this poject involve creating web like pratform 
+with class like place, city, amenity, user and state.
+you can create user instance of the class manage atribute like place, room, bathroom and more using command line interpreter.
+we create console file where we will be using command like
+1.create: to create user instance
+2.destroy: to delete instance of the class
+3.show: to display instance
+4.update to edit the content of the user
 
